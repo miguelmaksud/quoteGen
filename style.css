@@ -25,17 +25,6 @@ body {
     /* For IE8 and earlier */
 }
 
-#line {
-    width: 100%;
-    bottom: 4em;
-    position: fixed;
-    border-bottom: solid white;
-    padding: 15px;
-    opacity: 0.5;
-    filter: alpha(opacity=50);
-    /* For IE8 and earlier */
-}
-
 .navbar {
     position: fixed;
     width: 100%;
@@ -97,15 +86,6 @@ p :hover {
 
 #b-nav ul li {
     display: inline;
-}
-
-#b-nav ul li a {
-    text-decoration: none;
-    padding: .2em 1em;
-    background-color: black;
-    opacity: 0.4;
-    filter: alpha(opacity=40);
-    /* For IE8 and earlier */
 }
 
 .hold {
